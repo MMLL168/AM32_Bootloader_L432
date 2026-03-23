@@ -1,0 +1,14 @@
+obj/
+downloads/
+tools/
+.vscode
+*.bin
+*.elf
+*.d
+*.hex
+*.log
+*~
+*.map
+*.o
+.DS_Store
+.vscode/settings.json
